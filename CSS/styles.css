@@ -4,23 +4,22 @@ body{
 }
 
 h1 {
+  padding-top: 100px;
   margin-top: 0;
 }
 div{
   margin: 0;
 }
-.name {
-  position: absolute;
-  padding-top:  200px;
-  left: 800px;
-  font-size: 72px;
-}
+
+
 .topContainer{
   font-family: 'Kaushan Script', cursive;
+  font-size: 50px;
   background-color: #c7cfb7;
-  position: absolute;
+  position: relative;
+  min-width: 300px;
   margin: 0;
-  height: 122%;
+  height: 1600px;
 }
 .middleContainer{
 
@@ -46,7 +45,8 @@ div{
 }
 
 .kol {
+  padding-top: 170px;
   width: 80%;
-  top: 170px;
+
   position:relative;
 }
